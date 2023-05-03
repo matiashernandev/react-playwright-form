@@ -1,0 +1,9 @@
+html {
+  color-scheme: dark;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 15rem;
+}
